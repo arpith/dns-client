@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Arpith Siromoney <arpith@feedreader.co>"]
 
 [dependencies]
+itertools = "0.7.8"
